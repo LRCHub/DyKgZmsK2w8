@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "朝になって夢からさめて",
+  "base_artist": "カネコアヤノ",
+  "createdAt": "2026-02-08T16:00:25.282536Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "朝になって夢からさめて",
+      "artist": "Ayano Kaneko",
+      "has_synced": false,
+      "path": "select/01_朝になって夢からさめて_Ayano_Kaneko.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "朝になって夢からさめて",
+      "artist": "Kaneko Ayano",
+      "has_synced": false,
+      "path": "select/02_朝になって夢からさめて_Kaneko_Ayano.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "朝になって夢からさめて",
+      "artist": "カネコアヤノ",
+      "has_synced": false,
+      "path": "select/03_朝になって夢からさめて_カネコアヤノ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "朝になって夢からさめて",
+      "artist": "カネコアヤノ",
+      "has_synced": false,
+      "path": "select/pl_01_朝になって夢からさめて_カネコアヤノ.txt"
+    }
+  ]
+}
